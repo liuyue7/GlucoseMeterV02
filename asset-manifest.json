@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/GlucoseMeter/static/css/main.e9c2f9b8.chunk.css",
-    "main.js": "/GlucoseMeter/static/js/main.1ea7db82.chunk.js",
-    "main.js.map": "/GlucoseMeter/static/js/main.1ea7db82.chunk.js.map",
-    "runtime-main.js": "/GlucoseMeter/static/js/runtime-main.f5d33258.js",
-    "runtime-main.js.map": "/GlucoseMeter/static/js/runtime-main.f5d33258.js.map",
-    "static/js/2.aa21739e.chunk.js": "/GlucoseMeter/static/js/2.aa21739e.chunk.js",
-    "static/js/2.aa21739e.chunk.js.map": "/GlucoseMeter/static/js/2.aa21739e.chunk.js.map",
-    "index.html": "/GlucoseMeter/index.html",
-    "precache-manifest.3f6911b49106958b6ebe271c658dd4d2.js": "/GlucoseMeter/precache-manifest.3f6911b49106958b6ebe271c658dd4d2.js",
-    "service-worker.js": "/GlucoseMeter/service-worker.js",
-    "static/css/main.e9c2f9b8.chunk.css.map": "/GlucoseMeter/static/css/main.e9c2f9b8.chunk.css.map",
-    "static/js/2.aa21739e.chunk.js.LICENSE.txt": "/GlucoseMeter/static/js/2.aa21739e.chunk.js.LICENSE.txt",
-    "static/media/Banner-image-11.png": "/GlucoseMeter/static/media/Banner-image-11.b2252182.png",
-    "static/media/LSK-glucose-meter-coding-logic-11.png": "/GlucoseMeter/static/media/LSK-glucose-meter-coding-logic-11.f5ff7348.png",
-    "static/media/LSK-glucose-meter-coding-logic-12.png": "/GlucoseMeter/static/media/LSK-glucose-meter-coding-logic-12.b056882f.png",
-    "static/media/LSK-glucose-meter-coding-logic-13.png": "/GlucoseMeter/static/media/LSK-glucose-meter-coding-logic-13.58e18922.png"
+    "main.css": "/GlucoseMeterV02/static/css/main.e9c2f9b8.chunk.css",
+    "main.js": "/GlucoseMeterV02/static/js/main.e6563f5e.chunk.js",
+    "main.js.map": "/GlucoseMeterV02/static/js/main.e6563f5e.chunk.js.map",
+    "runtime-main.js": "/GlucoseMeterV02/static/js/runtime-main.758a738f.js",
+    "runtime-main.js.map": "/GlucoseMeterV02/static/js/runtime-main.758a738f.js.map",
+    "static/js/2.3a92980a.chunk.js": "/GlucoseMeterV02/static/js/2.3a92980a.chunk.js",
+    "static/js/2.3a92980a.chunk.js.map": "/GlucoseMeterV02/static/js/2.3a92980a.chunk.js.map",
+    "index.html": "/GlucoseMeterV02/index.html",
+    "precache-manifest.53ab9e52df79ae6b79614decab5e6acf.js": "/GlucoseMeterV02/precache-manifest.53ab9e52df79ae6b79614decab5e6acf.js",
+    "service-worker.js": "/GlucoseMeterV02/service-worker.js",
+    "static/css/main.e9c2f9b8.chunk.css.map": "/GlucoseMeterV02/static/css/main.e9c2f9b8.chunk.css.map",
+    "static/js/2.3a92980a.chunk.js.LICENSE.txt": "/GlucoseMeterV02/static/js/2.3a92980a.chunk.js.LICENSE.txt",
+    "static/media/Banner-image-11.png": "/GlucoseMeterV02/static/media/Banner-image-11.b2252182.png",
+    "static/media/LSK-glucose-meter-coding-logic-11.png": "/GlucoseMeterV02/static/media/LSK-glucose-meter-coding-logic-11.f5ff7348.png",
+    "static/media/LSK-glucose-meter-coding-logic-12.png": "/GlucoseMeterV02/static/media/LSK-glucose-meter-coding-logic-12.b056882f.png",
+    "static/media/LSK-glucose-meter-coding-logic-13.png": "/GlucoseMeterV02/static/media/LSK-glucose-meter-coding-logic-13.58e18922.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5d33258.js",
-    "static/js/2.aa21739e.chunk.js",
+    "static/js/runtime-main.758a738f.js",
+    "static/js/2.3a92980a.chunk.js",
     "static/css/main.e9c2f9b8.chunk.css",
-    "static/js/main.1ea7db82.chunk.js"
+    "static/js/main.e6563f5e.chunk.js"
   ]
 }
