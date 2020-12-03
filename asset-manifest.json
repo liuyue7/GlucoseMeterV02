@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/GlucoseMeterV02/static/css/main.e9c2f9b8.chunk.css",
-    "main.js": "/GlucoseMeterV02/static/js/main.e6563f5e.chunk.js",
-    "main.js.map": "/GlucoseMeterV02/static/js/main.e6563f5e.chunk.js.map",
+    "main.js": "/GlucoseMeterV02/static/js/main.1e6ca049.chunk.js",
+    "main.js.map": "/GlucoseMeterV02/static/js/main.1e6ca049.chunk.js.map",
     "runtime-main.js": "/GlucoseMeterV02/static/js/runtime-main.758a738f.js",
     "runtime-main.js.map": "/GlucoseMeterV02/static/js/runtime-main.758a738f.js.map",
     "static/js/2.3a92980a.chunk.js": "/GlucoseMeterV02/static/js/2.3a92980a.chunk.js",
     "static/js/2.3a92980a.chunk.js.map": "/GlucoseMeterV02/static/js/2.3a92980a.chunk.js.map",
     "index.html": "/GlucoseMeterV02/index.html",
-    "precache-manifest.53ab9e52df79ae6b79614decab5e6acf.js": "/GlucoseMeterV02/precache-manifest.53ab9e52df79ae6b79614decab5e6acf.js",
+    "precache-manifest.e9dcf1e77b2b99becbee8facf3d3dac4.js": "/GlucoseMeterV02/precache-manifest.e9dcf1e77b2b99becbee8facf3d3dac4.js",
     "service-worker.js": "/GlucoseMeterV02/service-worker.js",
     "static/css/main.e9c2f9b8.chunk.css.map": "/GlucoseMeterV02/static/css/main.e9c2f9b8.chunk.css.map",
     "static/js/2.3a92980a.chunk.js.LICENSE.txt": "/GlucoseMeterV02/static/js/2.3a92980a.chunk.js.LICENSE.txt",
-    "static/media/Banner-image-11.png": "/GlucoseMeterV02/static/media/Banner-image-11.b2252182.png",
+    "static/media/Banner-image-11.png": "/GlucoseMeterV02/static/media/Banner-image-11.c7a36deb.png",
     "static/media/LSK-glucose-meter-coding-logic-11.png": "/GlucoseMeterV02/static/media/LSK-glucose-meter-coding-logic-11.f5ff7348.png",
     "static/media/LSK-glucose-meter-coding-logic-12.png": "/GlucoseMeterV02/static/media/LSK-glucose-meter-coding-logic-12.b056882f.png",
     "static/media/LSK-glucose-meter-coding-logic-13.png": "/GlucoseMeterV02/static/media/LSK-glucose-meter-coding-logic-13.58e18922.png"
@@ -21,6 +21,6 @@
     "static/js/runtime-main.758a738f.js",
     "static/js/2.3a92980a.chunk.js",
     "static/css/main.e9c2f9b8.chunk.css",
-    "static/js/main.e6563f5e.chunk.js"
+    "static/js/main.1e6ca049.chunk.js"
   ]
 }
