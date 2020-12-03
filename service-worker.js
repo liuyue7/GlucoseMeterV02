@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GlucoseMeterV02/precache-manifest.e9dcf1e77b2b99becbee8facf3d3dac4.js"
+  "/GlucoseMeterV02/precache-manifest.8d0a6ea44f2e384a4a1cb8958fa5bb32.js"
 );
 
 self.addEventListener('message', (event) => {
